@@ -1,2 +1,2 @@
 # ishop-fe
-U4/20 talabalari uchun proyektning front-end qismi.
+U4/20 talabalari uchun proyektning front-end qismi
